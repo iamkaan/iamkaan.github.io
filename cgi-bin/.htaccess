@@ -1,0 +1,7 @@
+<Files awstats.pl>
+AuthUserFile /hsphere/local/home/c234374/.statspasswd
+AuthGroupFile /dev/null
+AuthName EnterPassword
+AuthType Basic
+require user c234374
+</Files>

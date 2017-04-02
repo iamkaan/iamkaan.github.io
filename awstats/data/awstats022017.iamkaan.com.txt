@@ -1,0 +1,582 @@
+AWSTATS DATA FILE 6.8 (build 1.910)
+# If you remove this file, all statistics for date 201702 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 1915                
+POS_TIME 2581                
+POS_VISITOR 14432               
+POS_DAY 18804               
+POS_DOMAIN 3364                
+POS_LOGIN 3910                
+POS_ROBOT 4065                
+POS_WORMS 4678                
+POS_EMAILSENDER 4809                
+POS_EMAILRECEIVER 4952                
+POS_SESSION 19502               
+POS_SIDER 19682               
+POS_FILETYPES 5087                
+POS_OS 5252                
+POS_BROWSER 5383                
+POS_SCREENSIZE 5692                
+POS_UNKNOWNREFERER 5766                
+POS_UNKNOWNREFERERBROWSER 6443                
+POS_ORIGIN 6789                
+POS_SEREFERRALS 6930                
+POS_PAGEREFS 7098                
+POS_SEARCHWORDS 7447                
+POS_KEYWORDS 7599                
+POS_MISC 2245                
+POS_ERRORS 7658                
+POS_CLUSTER 3766                
+POS_SIDER_404 7761                
+POS_PLUGIN_geoip_city_maxmind 13109               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170301014401 60 13681 10541366543407
+FirstTime 0
+LastTime 20170228223730
+LastUpdate 20170301051119 60 0 59 0 0
+TotalVisits 120                 
+TotalUnique 108                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 111                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 19 47 2096009 38 41 38207
+1 7 9 41165 33 39 111535
+2 7 17 174693 26 30 61731
+3 12 30 538931 16 29 176955
+4 3 13 520150 27 27 34782
+5 8 15 532722 37 39 67121
+6 18 41 1604452 26 27 28529
+7 15 38 1588354 33 36 82745
+8 17 63 2288630 41 47 116587
+9 2 9 516624 20 27 547859
+10 8 25 1044839 37 47 263555
+11 5 20 1036133 28 28 37465
+12 11 32 1560910 33 33 39950
+13 6 19 1038412 18 18 12324
+14 9 33 1217990 93 96 110274
+15 9 28 1557517 54 67 731803
+16 2 2 5366 39 45 60754
+17 4 11 521990 29 30 42473
+18 6 26 464258 29 30 69782
+19 3 3 8049 27 31 46380
+20 4 13 544374 31 44 164016
+21 3 10 519307 16 23 77888
+22 6 20 573533 25 40 178729
+23 11 27 1049803 22 27 83546
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 23
+us 81 167 4878266
+tr 18 84 4650712
+gb 17 73 3328215
+unknown 12 39 991614
+kr 10 14 71598
+gr 8 25 1034091
+ua 7 7 18781
+fr 6 21 1060796
+de 6 27 1549872
+ru 5 25 325239
+rs 2 2 5366
+jp 4 20 1033652
+cn 1 1 2683
+in 1 1 2683
+eu 2 9 516624
+th 2 9 516624
+it 4 4 10732
+pl 2 8 516422
+nl 2 2 5366
+fi 2 10 516826
+lt 1 1 2683
+gn 1 1 2683
+lu 1 1 2683
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+googlebot 142 976565 20170228201054 0
+bot[+:,\.\;\/\\-] 78 1188940 20170228140609 0
+baiduspider 69 424252 20170228142856 0
+yandex 46 123418 20170228053258 0
+mj12bot 6 16098 20170224233620 0
+robot 6 16098 20170227014805 0
+no_user_agent 5 13415 20170228021133 0
+spider 3 8049 20170222053745 0
+netcraft 2 5366 20170208174155 0
+crawl 2 5366 20170215063427 0
+python 1 2683 20170222171309 0
+exabot 1 2683 20170212055740 0
+surveybot 1 2683 20170217065632 0
+slurp 1 2683 20170219123954 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+eot 2 141614 0 0
+css 212 2657071 0 0
+html 153 391824 0 0
+jpg 41 14155284 0 0
+js 103 1100082 0 0
+woff2 40 2598336 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 9
+winlong 15
+winxp 21
+unix 18
+winnt 209
+linux 83
+macosx 154
+winunknown 2
+win2003 8
+Unknown 41
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 20
+firefox48.0 7
+firefox44.0 1
+firefox10.0 1
+opera 22
+firefox29.0 1
+firefox4.0 1
+firefox49.0 1
+firefox47.0 1
+msie8.0 32
+mozilla 10
+netscape5.0 1
+firefox43.0 1
+msie7.0 9
+firefox40.1 1
+firefox51.0 42
+firefox3.6.12 1
+firefox3.6.3 1
+msie9.0 3
+Unknown 10
+safari 405
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+Opera/9.80_(Series_60;_Opera_Mini/7.1.32451/37.9339;_U;_tr)_Presto/2.12.423_Version/12.16 20170205180436
+Mozilla/5.0_(compatible;_Daum/4.1;__http://cs.daum.net/faq/15/4118.html?faqId=28966) 20170226164800
+Mechanize/2.7.2_Ruby/2.0.0p481_(http://github.com/sparklemotion/mechanize/) 20170228072855
+Faraday_v0.9.1 20170223232100
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20170213154304
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20170218120839
+Mozilla/5.0_(compatible;_ips-agent) 20170218073123
+redback/v0-570-g26f8c96 20170208180015
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+Mechanize/2.7.2_Ruby/2.0.0p481_(http://github.com/sparklemotion/mechanize/) 20170228072855
+Faraday_v0.9.1 20170223232100
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20170213154304
+redback/v0-570-g26f8c96 20170208180015
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 107 114
+From1 0 0
+From2 21 21
+From3 17 17
+From4 50 399
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 19 19
+yandex 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 7
+http://t.co/P6gCVU03Zj 5 5
+https://www.facebook.com 4 4
+http://pizza-tycoon.com 3 3
+https://github.com 2 2
+http://l.instagram.com 1 1
+http://anonymizeme.pro/go/hide.cgi 1 1
+https://t.co/P6gCVU03Zj 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 7 162604
+404 531 234087
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 83
+/sitemap.xml 2 -
+/robots.txt 224 -
+/wordpress/ 4 -
+/wp-content/plugins/revslider/temp/update_extract/NULLpOint7r__hbgyo.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/NULLpOint7r__fvgzh.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/NULLpOint7r__cilpd.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/NULLpOint7r__unpwx.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/NULLpOint7r__btodl.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/NULLpOint7r__hexku.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/NULLpOint7r__otxde.php 1 -
+/.git/config 2 -
+/wp-content/plugins/revslider/temp/update_extract/NULLpOint7r__nofpc.php 1 -
+/xmlrpc.php 4 -
+/wp-content/plugins/revslider/temp/update_extract/NULLpOint7r__jgcte.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/NULLpOint7r__hxgwe.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/NULLpOint7r__yacnh.php 1 -
+/wp-content/plugins/showbiz/temp/update_extract/NULLpOint7r__boafe.php 1 -
+/fonts/fontawesome-webfont.svg 3 http://www.iamkaan.com/
+/wp-content/plugins/showbiz/temp/update_extract/NULLpOint7r__plgza.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/NULLpOint7r__ykzxu.php 1 -
+/google33017d10fe76e584.html 2 -
+/wp-content/plugins/showbiz/temp/update_extract/NULLpOint7r__itcke.php 1 -
+/fonts/fontawesome-webfont.woff 47 http://www.iamkaan.com/css/font-awesome.min.css
+/fonts/fontawesome-webfont.eot 2 http://iamkaan.com/
+/fonts/fontawesome-webfont.ttf 48 http://www.iamkaan.com/css/font-awesome.min.css
+/wp-content/plugins/revslider/temp/update_extract/NULLpOint7r__rapbw.php 1 -
+//wp-login.php 1 -
+/wp-content/plugins/showbiz/temp/update_extract/NULLpOint7r__ehcxn.php 1 -
+/wp-content/plugins/showbiz/temp/update_extract/NULLpOint7r__smwqg.php 1 -
+/index.php/wp-json/wp/v2/posts/ 19 -
+/wp-content/plugins/revslider/temp/update_extract/NULLpOint7r__glmsp.php 1 -
+/cpanel 1 http://www.google.com
+/wp-content/plugins/showbiz/temp/update_extract/NULLpOint7r__pnvks.php 1 -
+/wp-content/plugins/showbiz/temp/update_extract/NULLpOint7r__rwvpi.php 1 -
+/wp-login.php 2 -
+/wp-content/plugins/showbiz/temp/update_extract/NULLpOint7r__vhbix.php 1 -
+/wp-content/plugins/showbiz/temp/update_extract/NULLpOint7r__zmyox.php 1 -
+/wp-content/plugins/showbiz/temp/update_extract/NULLpOint7r__woivg.php 1 -
+/wp-content/plugins/showbiz/temp/update_extract/NULLpOint7r__raezu.php 1 -
+/wp-content/plugins/showbiz/temp/update_extract/NULLpOint7r__ectfz.php 1 -
+/wp-content/plugins/showbiz/temp/update_extract/NULLpOint7r__qehwd.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/NULLpOint7r__czyip.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/NULLpOint7r__wrvzb.php 1 -
+/apple-touch-icon.png 1 -
+/wp-content/plugins/showbiz/temp/update_extract/NULLpOint7r__fcvkx.php 1 -
+/wp-content/plugins/showbiz/temp/update_extract/NULLpOint7r__ogepb.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/NULLpOint7r__xiqjg.php 1 -
+/wp-content/plugins/showbiz/temp/update_extract/NULLpOint7r__chowy.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/NULLpOint7r__mxely.php 1 -
+/wp-content/plugins/showbiz/temp/update_extract/NULLpOint7r__pbsag.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/NULLpOint7r__bmokd.php 1 -
+/wp-content/plugins/showbiz/temp/update_extract/NULLpOint7r__iwgra.php 1 -
+/wp-content/plugins/showbiz/temp/update_extract/NULLpOint7r__rkgow.php 1 -
+/BIM485/ 1 -
+/wp-admin/admin-ajax.php 60 -
+/wp-content/plugins/showbiz/temp/update_extract/NULLpOint7r__licwh.php 1 -
+/blog/ 4 -
+/wp-content/plugins/revslider/temp/update_extract/NULLpOint7r__powil.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/NULLpOint7r__lxyeh.php 1 -
+/wp/ 4 -
+/wp-content/plugins/revslider/temp/update_extract/NULLpOint7r__kuiyz.php 1 -
+/wp-content/plugins/showbiz/temp/update_extract/NULLpOint7r__rokcw.php 1 -
+/wp-content/plugins/showbiz/temp/update_extract/NULLpOint7r__qzwmj.php 1 -
+/wp-content/plugins/showbiz/temp/update_extract/NULLpOint7r__clwmq.php 1 -
+/wp-content/plugins/showbiz/temp/update_extract/NULLpOint7r__vyuhr.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/NULLpOint7r__ombfd.php 1 -
+//index.php/wp-json/wp/v2/posts/ 27 -
+/apple-touch-icon-precomposed.png 1 -
+/blog/robots.txt 4 -
+/wp-content/plugins/revslider/temp/update_extract/NULLpOint7r__pxoqt.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/NULLpOint7r__svieq.php 1 -
+/wp-content/plugins/showbiz/temp/update_extract/NULLpOint7r__hiptl.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/NULLpOint7r__fpqar.php 1 -
+/wp-content/plugins/showbiz/temp/update_extract/NULLpOint7r__ztqjh.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/NULLpOint7r__tyodv.php 1 -
+/wp-content/plugins/showbiz/temp/update_extract/NULLpOint7r__xpvrm.php 1 -
+//loll.html 8 -
+/wp-content/plugins/showbiz/temp/update_extract/NULLpOint7r__sopxc.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/NULLpOint7r__jprvq.php 1 -
+/wp-content/plugins/showbiz/temp/update_extract/NULLpOint7r__kdlhx.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/NULLpOint7r__antwq.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/NULLpOint7r__ptvwj.php 1 -
+/wp-content/plugins/showbiz/temp/update_extract/NULLpOint7r__mdbng.php 1 -
+END_SIDER_404
+
+# Plugin key - Pages - Hits - Bandwidth - Last access
+BEGIN_PLUGIN_geoip_city_maxmind 41
+unknown 0 189 0 0
+us_mountain%20view_ca 0 46 0 0
+us_woodbridge_nj 0 39 0 0
+gb_london_h9 0 34 0 0
+ru_moscow_48 0 24 0 0
+jp_kanda_07 0 20 0 0
+tr_istanbul_34 0 17 0 0
+kr_daejeon_19 0 14 0 0
+us_wilmington_de 0 12 0 0
+gb_huddersfield_g8 0 11 0 0
+us_pocatello_id 0 1 0 0
+us_orem_ut 0 1 0 0
+pl_rzeszów_80 0 8 0 0
+us_sterling_va 0 1 0 0
+cn_beijing_22 0 1 0 0
+us_san%20diego_ca 0 1 0 0
+us_scottsdale_az 0 1 0 0
+us_rifle_co 0 9 0 0
+in_bhopal_35 0 1 0 0
+us_lake%20forest_ca 0 3 0 0
+fi_jyväskylä_15 0 10 0 0
+ua_dnepropetrovsk_04 0 2 0 0
+us_los%20angeles_ca 0 1 0 0
+us_washington_dc 0 8 0 0
+us_dallas_tx 0 1 0 0
+us_austin_tx 0 1 0 0
+ru_velikiy%20novgorod_53 0 1 0 0
+rs_belgrade_00 0 2 0 0
+ua_kharkov_07 0 1 0 0
+tr_samsun_55 0 8 0 0
+us_mascoutah_il 0 9 0 0
+tr_balikesir_10 0 8 0 0
+tr_tekirdag_59 0 8 0 0
+de_herten_07 0 8 0 0
+us_eatontown_nj 0 9 0 0
+us_seattle_wa 0 2 0 0
+de_lauchhammer_11 0 9 0 0
+nl_amsterdam_07 0 2 0 0
+de_würselen_07 0 10 0 0
+us_kirkland_wa 0 9 0 0
+us_indianapolis_in 0 9 0 0
+END_PLUGIN_geoip_city_maxmind
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 111
+54.149.124.211 32 32 85856 20170213083120
+2.86.99.50 8 25 1034091 20170210082145
+43.225.150.83 4 20 1033652 20170225004248
+93.174.87.81 4 17 1033046 20170212055718
+81.213.40.113 4 20 1033652 20170222231234
+87.242.141.178 4 16 1032844 20170213084600
+193.201.224.207 3 3 8049 20170224002809
+66.249.93.50 3 14 114720 20170208033821
+85.109.59.175 2 11 517281 20170203123721
+88.233.232.16 2 8 516422 20170222150647
+66.249.93.134 0 2 48356 
+5.188.211.244 1 1 2683 20170226190757
+122.168.124.215 1 1 2683 20170219124512
+107.167.98.27 2 22 453526 20170205180436
+203.133.170.27 1 1 2683 20170201222057
+46.118.153.31 1 1 2683 20170222221343
+174.16.1.211 2 9 516624 20170216205011
+74.86.240.62 1 1 2683 20170228060654
+52.25.122.161 1 1 2683 20170220014723
+213.159.38.90 1 1 2683 20170222060854
+203.133.169.212 1 3 25067 20170228200018
+130.234.204.21 2 10 516826 20170206113210
+109.87.36.111 1 1 2683 20170204001032
+104.154.94.120 1 1 2683 20170221005251
+62.24.252.133 2 7 71024 20170213084630
+80.87.25.58 2 11 517281 20170215105937
+62.212.73.49 1 1 2683 20170209031131
+162.104.219.221 2 9 516624 20170217114434
+38.100.21.66 1 8 48860 20170207223518
+104.156.231.254 1 1 2683 20170225062654
+54.245.208.6 1 1 2683 20170228072855
+94.242.246.24 1 1 2683 20170223070933
+23.246.210.100 1 1 2683 20170201121314
+78.181.235.153 2 8 516422 20170221000447
+46.229.170.197 1 1 2683 20170217183427
+216.69.191.97 1 1 2683 20170205225516
+54.255.200.116 1 1 2683 20170203055539
+52.207.37.184 1 1 2683 20170204171713
+65.19.167.132 1 1 2683 20170208124106
+66.249.93.136 1 2 429580 20170213003218
+209.222.77.220 1 1 2683 20170223044618
+188.166.61.92 1 1 2683 20170227024320
+88.242.98.36 2 8 516422 20170210135925
+67.160.45.31 2 9 516624 20170228223730
+77.41.92.28 2 12 161278 20170220020504
+185.146.171.197 1 1 2683 20170217114105
+104.238.180.234 1 1 2683 20170216193618
+95.84.183.176 2 12 161278 20170208080952
+86.229.138.56 2 8 516422 20170209125145
+80.137.47.138 2 10 516826 20170220075214
+40.132.243.75 2 9 516624 20170224142110
+203.133.169.165 1 1 2683 20170206100325
+54.203.87.1 1 1 2683 20170214062231
+107.167.110.12 1 1 2683 20170209163620
+109.236.8.6 1 1 2683 20170208180015
+158.69.229.6 1 3 25067 20170221011806
+79.137.85.189 1 1 2683 20170220230312
+66.102.9.150 1 1 2683 20170216072032
+176.54.194.197 2 12 517467 20170228084650
+203.133.170.15 1 1 2683 20170201034718
+66.102.7.200 1 1 2683 20170223063100
+54.184.44.220 1 1 2683 20170212061351
+46.118.155.228 1 1 2683 20170223034750
+95.211.138.129 1 1 2683 20170224131658
+88.150.175.111 2 2 5366 20170211104139
+54.185.179.77 1 1 2683 20170207081401
+54.189.136.216 1 1 2683 20170221064656
+66.249.93.52 1 9 123640 20170212041129
+219.145.144.65 1 1 2683 20170223104245
+193.70.14.60 1 1 2683 20170207074029
+45.32.130.173 1 1 2683 20170208140754
+203.133.168.6 1 1 2683 20170223212537
+66.249.93.54 2 11 796574 20170212041128
+85.239.121.102 2 9 516624 20170202081809
+89.234.157.254 1 1 2683 20170222132910
+24.182.231.34 2 9 516624 20170214085207
+203.133.170.145 1 1 2683 20170203120841
+203.133.170.78 1 1 2683 20170226164800
+134.249.159.113 1 1 2683 20170225172206
+91.196.10.8 2 8 516422 20170215071338
+49.231.193.13 0 2 21092 
+54.213.125.36 1 1 2683 20170211035322
+212.156.133.198 2 9 516624 20170214092912
+178.202.195.127 2 8 516422 20170224151852
+88.99.65.98 1 1 2683 20170204052735
+203.133.168.23 1 1 2683 20170207012636
+184.72.161.138 1 1 2683 20170223232100
+184.73.120.139 1 1 2683 20170209004720
+49.231.193.11 0 4 424731 
+217.138.16.76 2 10 516826 20170214060338
+198.50.200.134 1 1 2683 20170223150820
+66.249.93.132 1 4 38486 20170213003217
+92.40.248.22 2 11 154511 20170221145829
+49.231.193.12 2 3 70801 20170207210645
+52.20.221.77 2 10 516826 20170214105421
+203.133.168.88 1 3 25067 20170228144513
+71.6.165.200 1 1 2683 20170209001523
+184.155.127.34 1 1 2683 20170226202613
+62.210.75.243 1 3 25067 20170223074153
+109.31.204.150 2 9 516624 20170222132039
+165.231.0.242 1 1 2683 20170202140049
+203.133.168.217 1 1 2683 20170222185354
+66.249.91.30 1 1 53 20170205231544
+68.233.177.34 2 9 516624 20170222170721
+69.58.178.57 1 1 2683 20170218073123
+185.28.110.5 2 9 516624 20170225151710
+45.63.114.215 2 2 5366 20170213154304
+78.161.217.58 2 8 516422 20170220121652
+109.236.8.8 1 1 2683 20170208180015
+66.249.91.6 1 1 53 20170218120839
+173.82.60.154 1 1 2683 20170212194117
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20170201 5 11 524471 4
+20170202 3 10 519307 2
+20170203 4 13 522647 3
+20170204 3 3 8049 3
+20170205 4 24 456262 3
+20170206 5 20 1036133 3
+20170207 6 20 573533 5
+20170208 10 38 689477 7
+20170209 6 12 527154 5
+20170210 8 24 1033889 2
+20170211 3 3 8049 2
+20170212 10 27 1050189 6
+20170213 38 61 1700780 14
+20170214 9 39 2069583 5
+20170215 4 19 1033703 2
+20170216 4 11 521990 3
+20170217 4 11 521990 3
+20170218 2 2 2736 2
+20170219 1 1 2683 1
+20170220 8 32 1199892 5
+20170221 7 24 701366 5
+20170222 14 50 2594054 8
+20170223 9 11 46531 9
+20170224 8 21 1043778 4
+20170225 8 31 1555642 4
+20170226 3 3 8049 3
+20170227 1 1 2683 1
+20170228 8 29 1089591 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+0s-30s 115
+15mn-30mn 1
+30s-2mn 3
+2mn-5mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/ 151 391718 116 80
+/css/font-awesome/fonts/fontawesome-webfont.woff2 40 2598336 2 36
+/css/font-awesome/fonts/fontawesome-webfont.eot 2 141614 0 2
+/google8c4cb1aa13d51afa.html 2 106 2 2
+END_SIDER

@@ -1,0 +1,444 @@
+AWSTATS DATA FILE 6.8 (build 1.910)
+# If you remove this file, all statistics for date 201506 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 1915                
+POS_TIME 2593                
+POS_VISITOR 9482                
+POS_DAY 11944               
+POS_DOMAIN 3325                
+POS_LOGIN 3758                
+POS_ROBOT 3913                
+POS_WORMS 4553                
+POS_EMAILSENDER 4684                
+POS_EMAILRECEIVER 4827                
+POS_SESSION 12617               
+POS_SIDER 12785               
+POS_FILETYPES 4962                
+POS_OS 5149                
+POS_BROWSER 5255                
+POS_SCREENSIZE 5511                
+POS_UNKNOWNREFERER 5585                
+POS_UNKNOWNREFERERBROWSER 6200                
+POS_ORIGIN 6391                
+POS_SEREFERRALS 6526                
+POS_PAGEREFS 6681                
+POS_SEARCHWORDS 7011                
+POS_KEYWORDS 7177                
+POS_MISC 2257                
+POS_ERRORS 7250                
+POS_CLUSTER 3614                
+POS_SIDER_404 7378                
+POS_PLUGIN_geoip_city_maxmind 8632                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150701014152 27 4444 12163884587941
+FirstTime 20150601050933
+LastTime 20150629100719
+LastUpdate 20150701173724 27 0 26 0 0
+TotalVisits 79                  
+TotalUnique 62                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 62                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 7 280211 15 22 110374
+1 1 1 2634 14 22 68456
+2 3 9 316929 17 21 78708
+3 4 4 7903 28 29 69264
+4 4 4 22811 19 30 111036
+5 8 8 44704 14 16 41796
+6 2 8 314295 4 11 44058
+7 2 2 5268 10 10 13518
+8 3 3 7902 15 17 70472
+9 2 9 314497 13 16 62060
+10 7 21 636896 7 7 44354
+11 0 0 0 11 14 60666
+12 2 2 5268 14 16 46438
+13 5 11 322197 12 28 217816
+14 4 10 331838 19 19 42766
+15 5 5 13170 22 33 183425
+16 7 20 669137 5 11 65993
+17 2 2 5268 19 29 123517
+18 12 17 410024 12 13 24969
+19 3 10 317131 14 16 86870
+20 6 20 2225862 12 15 109230
+21 2 2 5268 5 6 10390
+22 5 7 35554 15 22 155040
+23 4 19 1934431 10 14 1109992
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 16
+us 30 55 1046065
+unknown 19 19 111421
+tr 16 71 5935456
+cn 9 15 365176
+ua 5 5 41435
+fr 5 9 57938
+vn 3 3 7902
+br 2 2 5268
+mx 2 8 314295
+az 2 8 314295
+kr 1 1 2634
+ro 1 1 2634
+gb 1 1 2634
+eu 1 1 2634
+pl 1 1 16777
+lt 1 1 2634
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 15
+googlebot 116 1261090 20150630234208 0
+baiduspider 73 408877 20150630172246 0
+bot[+:,\.\;\/\\-] 26 87793 20150630145405 0
+mj12bot 25 65850 20150629120932 0
+wordpress 22 0 20150630222207 0
+robot 8 7902 20150628172016 0
+java 6 32666 20150626021554 0
+no_user_agent 3 7902 20150615154955 0
+seznambot 3 0 20150628035652 0
+surveybot 2 5268 20150628152155 0
+exabot 1 2634 20150615082706 0
+spider 1 2634 20150614163848 0
+mojeekbot 1 2634 20150628053311 0
+slurp 2 2634 20150614114317 0
+crawl 2 5268 20150623053157 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+php 1 1 0 0
+css 51 501335 0 0
+png 12 2271768 0 0
+html 85 422779 0 0
+jpg 2 3438986 0 0
+js 37 521898 0 0
+woff 12 785424 0 0
+svg 1 287007 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 7
+macosx 63
+winxp 9
+winlong 2
+win2003 7
+winnt 77
+Unknown 21
+linux 22
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 17
+msie8.0 9
+msie6.0 2
+firefox6.0.2 6
+mozilla 14
+firefox1.0 1
+netscape5.0 2
+msie7.0 7
+firefox14.0.1 1
+firefox6.0 11
+firefox3.6.3 2
+msie9.0 1
+firefox34.0 3
+firefox38.0 8
+lynx 1
+Unknown 5
+safari 127
+netscape 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+Mozilla 20150615034102
+Mozilla/5.0_(compatible;_PageAnalyzer/1.5;) 20150629100719
+Mozilla/5.0_(compatible;_coccoc/1.0;__http://help.coccoc.com/) 20150625040721
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20150623202745
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20150615010109
+()_{_:;_};_echo_Content-type:text/plain;echo;echo;echo_M`expr_1330___7`H;/bin/uname_-a;echo_@ 20150627220626
+Mozilla/5.0_(compatible;_Lipperhey-Kaus-Australis/5.0;__https://www.lipperhey.com/en/about/) 20150609052014
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+()_{_:;_};_echo_Content-type:text/plain;echo;echo;echo_M`expr_1330___7`H;/bin/uname_-a;echo_@ 20150627220626
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 62 68
+From1 5 5
+From2 6 6
+From3 4 4
+From4 22 118
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 6 6
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+http://pizza-tycoon.com 1 1
+http://t.co/P6gCVU03Zj 1 1
+http://hundejo.com 1 1
+http://iamk9.com//wp-content/uploads/wpallimport/uploads/96b0759dd85404093fa596c05e3eb108/cache.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+iamkaan.com 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+iamkaan.com 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+302 2 0
+206 2 990734
+500 1 0
+301 3 724
+404 138 66598
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 23
+/BIM485/wp-content/plugins/Wordpress_Backup/WordpressBackup.php 1 -
+/robots.txt 112 -
+/wp-content/plugins/showbiz/temp/update_extract/NULLpOint7r__xjtnl.php 1 -
+/BIM485//wp-content/plugins/showbiz/release_log.html 1 -
+/administrator/index.php 1 -
+/BIM485/wp-content/upgrade/options.php 1 -
+/BIM485/license.php 1 -
+/BIM485/options.php 1 -
+/BIM485/wp-content/plugins/front-end-editor/lib/aloha-editor/css/aloha-core.css 2 -
+/BIM485//wp-content/uploads/wpallimport/uploads/dc3e81c6f4e5118c81fb201404fc3c20/cache.php 1 http://iamkaan.com/BIM485//wp-admin/admin-ajax.php
+/wp-admin/admin-ajax.php 4 -
+/BIM485/wp-content/plugins/options.php 1 -
+/BIM485/wp-content/uploads/wysija/themes/mailp/index.php 1 -
+/BIM485/wp-content/options.php 1 -
+/xmlrpc.php 1 https://www.google.by/search
+/wp-content/plugins/revslider/temp/update_extract/NULLpOint7r__glvob.php 1 -
+/default.php 1 http://iamkaan.com/default.php
+/BIM485/wp-content/themes/options.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/NULLpOint7r__ujlgq.php 1 -
+/wp-login.php 1 -
+/wp-content/plugins/showbiz/temp/update_extract/NULLpOint7r__klgat.php 1 -
+/BIM484 1 -
+/BIM485/wp-content/uploads/wordpress/ 1 -
+END_SIDER_404
+
+# Plugin key - Pages - Hits - Bandwidth - Last access
+BEGIN_PLUGIN_geoip_city_maxmind 22
+unknown 0 82 0 0
+tr_giresun_28 0 35 0 0
+us_mountain%20view_ca 0 13 0 0
+tr_osmaniye_31 0 8 0 0
+us_boston_ma 0 8 0 0
+az_baku_09 0 8 0 0
+mx_mexico_09 0 8 0 0
+us_washington_dc 0 7 0 0
+cn_beijing_22 0 6 0 0
+tr_ankara_68 0 6 0 0
+lt_vilnius_65 0 1 0 0
+us_sterling_va 0 1 0 0
+us_san%20jose_ca 0 2 0 0
+br_fortaleza_06 0 1 0 0
+ro_cluj-napoca_13 0 1 0 0
+tr_adana_81 0 2 0 0
+us_wilmington_de 0 1 0 0
+pl_polska_77 0 1 0 0
+ua_dnepropetrovsk_04 0 2 0 0
+us_morgantown_wv 0 3 0 0
+vn_hanoi_44 0 3 0 0
+us_woodbridge_nj 0 2 0 0
+END_PLUGIN_geoip_city_maxmind
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 62
+78.167.8.252 8 35 1257786 20150614021447
+104.193.10.49 5 5 74545 20150616002118
+5.189.144.88 5 5 13170 20150629100719
+66.249.81.218 4 4 10536 20150623191544
+192.99.44.141 3 3 7902 20150609052015
+5.189.144.124 3 3 7902 20150609105540
+66.249.81.212 3 3 7902 20150617001721
+8.26.157.129 2 8 314295 20150617183701
+81.213.47.61 2 11 1910452 20150606232340
+8.26.157.132 2 9 314497 20150610161315
+94.23.217.201 1 1 2634 20150604210700
+66.102.8.181 1 1 2634 20150626030859
+220.181.108.150 1 1 2634 20150607220834
+78.167.49.173 1 6 1883660 20150628205230
+78.161.247.236 2 8 314295 20150617130746
+92.114.97.168 1 1 2634 20150624183712
+38.100.21.64 1 7 21345 20150607232552
+181.61.83.30 1 1 2634 20150606181740
+123.30.175.242 1 1 2634 20150605084022
+134.249.49.104 1 1 26266 20150623054834
+178.32.53.131 1 1 2634 20150618180304
+123.125.71.98 1 1 2634 20150607220409
+123.125.71.18 1 1 2634 20150622150931
+52.0.89.236 1 1 2634 20150622162859
+220.181.108.174 1 1 2634 20150623001602
+85.132.45.60 2 8 314295 20150625061148
+54.159.66.134 1 1 2634 20150604200720
+89.77.203.220 1 1 16777 20150614180155
+213.161.193.150 1 1 2634 20150626004724
+94.131.14.7 1 1 1 20150608030118
+187.121.36.34 1 1 2634 20150621215742
+195.175.230.83 1 2 254766 20150603005003
+62.210.189.96 1 3 25018 20150610222523
+36.251.87.140 1 1 2634 20150619104655
+66.249.90.52 1 1 2634 20150610042756
+66.249.81.215 1 1 2634 20150601050933
+182.118.44.35 2 8 346738 20150614163852
+207.244.89.75 2 8 314295 20150610145243
+1.234.46.205 1 1 2634 20150615124119
+91.121.100.66 1 1 2634 20150626150631
+123.30.175.245 1 1 2634 20150625040721
+66.249.91.38 1 1 53 20150623202745
+66.249.93.163 1 1 2634 20150606050323
+54.161.171.248 1 1 2634 20150622131126
+193.106.31.45 1 1 2634 20150601145345
+66.249.84.197 1 1 2634 20150617185417
+46.118.158.187 2 2 36166 20150609180042
+201.153.129.149 2 8 314295 20150622202419
+64.79.100.15 2 2 5268 20150615034102
+69.58.178.59 1 1 2634 20150620071601
+220.181.108.120 1 1 2634 20150622151547
+209.128.119.170 2 2 5268 20150615155839
+37.187.43.176 2 2 5268 20150627220626
+185.62.188.148 1 1 2634 20150616185637
+178.137.89.154 1 1 2634 20150601074058
+62.210.138.75 1 3 25018 20150621205020
+201.9.83.3 1 1 2634 20150620081324
+64.79.100.19 1 1 2634 20150602122212
+123.30.175.241 1 1 2634 20150616055049
+188.119.22.81 2 9 314497 20150623191351
+78.158.11.226 1 1 2634 20150615010109
+123.125.71.50 1 1 2634 20150623001015
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20150601 3 3 7902 3
+20150602 1 1 2634 1
+20150603 4 5 262668 4
+20150604 2 2 5268 2
+20150605 1 1 2634 1
+20150606 5 14 1918354 4
+20150607 3 9 26613 3
+20150608 2 2 2635 2
+20150609 6 6 46702 3
+20150610 7 22 659078 5
+20150611 1 1 2634 1
+20150612 5 19 631628 2
+20150613 2 9 314497 1
+20150614 8 20 710262 5
+20150615 9 9 48256 7
+20150616 3 3 20177 3
+20150617 6 17 633656 4
+20150618 1 1 2634 1
+20150619 2 3 5470 2
+20150620 2 2 5268 2
+20150621 2 4 27652 2
+20150622 6 12 324831 5
+20150623 8 15 351352 7
+20150624 1 1 2634 1
+20150625 3 9 316929 2
+20150626 3 3 7902 3
+20150627 1 1 2634 1
+20150628 1 6 1883660 1
+20150629 1 1 2634 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+5mn-15mn 1
+0s-30s 77
+30s-2mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 6
+/ 72 189648 67 56
+/BIM485/ 12 233078 9 9
+/fonts/fontawesome-webfont.woff 12 785424 1 11
+/fonts/fontawesome-webfont.svg 1 287007 0 1
+/BIM485/wp-admin/admin-ajax.php 1 1 1 1
+/google8c4cb1aa13d51afa.html 1 53 1 1
+END_SIDER

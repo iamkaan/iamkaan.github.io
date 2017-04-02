@@ -1,0 +1,515 @@
+AWSTATS DATA FILE 6.8 (build 1.910)
+# If you remove this file, all statistics for date 201410 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 1915                
+POS_TIME 2587                
+POS_VISITOR 10253               
+POS_DAY 14322               
+POS_DOMAIN 3382                
+POS_LOGIN 3807                
+POS_ROBOT 3962                
+POS_WORMS 4483                
+POS_EMAILSENDER 4614                
+POS_EMAILRECEIVER 4757                
+POS_SESSION 14958               
+POS_SIDER 15166               
+POS_FILETYPES 4892                
+POS_OS 5132                
+POS_BROWSER 5242                
+POS_SCREENSIZE 5556                
+POS_UNKNOWNREFERER 5630                
+POS_UNKNOWNREFERERBROWSER 6179                
+POS_ORIGIN 6459                
+POS_SEREFERRALS 6601                
+POS_PAGEREFS 6756                
+POS_SEARCHWORDS 7099                
+POS_KEYWORDS 7251                
+POS_MISC 2251                
+POS_ERRORS 7310                
+POS_CLUSTER 3663                
+POS_SIDER_404 7442                
+POS_PLUGIN_geoip_city_maxmind 9088                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20141101030137 1 0 10306143642083
+FirstTime 20141008143915
+LastTime 20141031083533
+LastUpdate 20141102050807 1 0 0 0 0
+TotalVisits 150                 
+TotalUnique 101                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 101                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 17 28 247636 13 19 56303
+1 24 42 1955819 8 8 10993
+2 47 54 3637043 10 10 13767
+3 90 112 3341084 28 28 102026
+4 77 115 5154596 25 42 333960
+5 19 25 50118 10 14 55626
+6 62 115 2460732 12 20 103618
+7 82 107 4873023 11 19 182803
+8 92 121 1998902 20 24 56579
+9 40 41 301924 1 8 51830
+10 55 79 2391714 3 3 3882
+11 99 99 21563 9 10 15041
+12 80 101 3543067 14 15 28174
+13 92 119 1821421 14 18 13178
+14 193 322 23368470 23 26 95371
+15 125 159 2142635 19 22 33140
+16 135 183 3101216 7 7 3882
+17 34 56 5234702 18 30 121826
+18 12 33 1747921 0 0 0
+19 6 13 1924073 9 9 9502
+20 3 11 1789595 16 38 1861697
+21 9 27 399161 18 18 28408
+22 1 1 12711 17 17 24562
+23 2 2 5152 14 20 60149
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+tr 985 1275 44510392
+unknown 158 250 10572771
+rs 89 124 2336799
+us 70 141 5023112
+gb 62 107 3687217
+cn 8 14 175411
+de 7 21 1745261
+ua 6 6 15456
+il 3 9 1648871
+eu 3 13 1743528
+ie 2 2 24378
+tw 2 2 38506
+fr 1 1 2576
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+googlebot 142 939604 20141031141440 0
+yandex 49 126224 20141031081358 0
+wordpress 29 0 20141029121446 0
+bot[+:,\.\;\/\\-] 25 169840 20141030123759 0
+phantom 13 1743528 20141019205219 0
+baiduspider 5 12880 20141025031937 0
+nutch 5 82021 20141028044840 0
+no_user_agent 4 10304 20141010235543 0
+surveybot 4 10304 20141031150533 0
+crawl 2 5152 20141020200501 0
+spider 1 2576 20141017131052 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+css 253 2155651 0 0
+png 37 1621560 0 0
+ttf 8 897280 0 0
+woff 33 1309040 0 0
+php 1108 7040139 0 0
+html 210 1781426 0 0
+js 197 3393799 0 0
+jpg 57 53238843 0 0
+svg 37 19527 0 0
+gif 25 67013 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 7
+macosx 1685
+winlong 1
+winxp 23
+win2003 7
+winnt 140
+Unknown 16
+linux 93
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 21
+msie6.0 7
+firefox32.0 10
+firefox3.6 1
+firefox4.0.1 1
+firefox26.0 3
+opera 1
+msie5.5 12
+msie8.0 9
+firefox33.0 10
+mozilla 19
+firefox1.0 1
+netscape5.0 4
+msie7.0 17
+firefox14.0.1 1
+msie10.0 1
+firefox6.0 22
+msie9.0 3
+Unknown 6
+firefox11.0 2
+safari 1834
+firefox3.6.13 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20141023191511
+Mozilla/5.0_Moreover/5.1_(_http://www.moreover.com;_webmaster@moreover.com) 20141026080347
+Mozilla/5.1_(compatible;_U5/1.0;__http://uni5download.com) 20141011074629
+Go_1.1_package_http 20141020092925
+Mozilla/4.0_(compatible;_http://search.thunderstone.com/texis/websearch/about.html) 20141015194025
+viralvideochart.unrulymedia.com_vvcscanner@unrulymedia.com 20141028045029
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20141023191511
+Go_1.1_package_http 20141020092925
+viralvideochart.unrulymedia.com_vvcscanner@unrulymedia.com 20141028045029
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 134 155
+From1 0 0
+From2 1 1
+From3 18 18
+From4 1243 1791
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 6
+http://www.domaintuno.com/d/iamkaan.com 5 5
+http://uni5download.com 4 4
+http://t.co/P6gCVU03Zj 4 4
+http://www.kaanmamikoglu.com 2 2
+http://l.facebook.com/lsr.php 2 2
+http://kaanmamikoglu.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+302 12 0
+206 3 84457
+500 6 1155
+404 117 76401
+301 8 1871
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 23
+/bim485 2 -
+/apple-touch-icon-precomposed.png 1 -
+/robots.txt 78 -
+/user/ 1 -
+/apple-touch-icon.png 1 -
+/manager/ 1 -
+/admin.php 5 -
+/administrator/index.php 2 -
+/webmanage/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp 1 http://iamkaan.com/webmanage/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
+/editor/filemanager/browser/default/connectors/asp/connector.asp 1 http://iamkaan.com/editor/filemanager/browser/default/connectors/asp/connector.asp
+/ajax.list.search.php 1 -
+/http://www.us.orienteering.org/sites/default/files/images/compass-on-a-map.jpg 1 http://iamkaan.com/BIM485/wp-admin/post-new.php
+/wp-admin/admin-ajax.php 1 -
+/admin/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp 1 http://iamkaan.com/admin/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
+/administrator/ 3 -
+/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp 1 http://iamkaan.com/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
+/domainsigma_removal_96089a8cbd1bb3692e31424a206cc37a65397bc2.html 2 -
+/bim485/ 5 http://iamkaan.com/bim485/
+/editor/editor/filemanager/browser/default/connectors/asp/connector.asp 1 http://iamkaan.com/editor/editor/filemanager/browser/default/connectors/asp/connector.asp
+/manage/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp 1 http://iamkaan.com/manage/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
+/BIM48/ 1 -
+/wp-login.php 5 -
+/admin/ 1 -
+END_SIDER_404
+
+# Plugin key - Pages - Hits - Bandwidth - Last access
+BEGIN_PLUGIN_geoip_city_maxmind 35
+tr_rize_53 0 677 0 0
+unknown 0 444 0 0
+tr_giresun_28 0 320 0 0
+tr_eskisehir_26 0 127 0 0
+rs_belgrade_00 0 85 0 0
+tr_antakya_31 0 66 0 0
+us_santa%20clara_ca 0 56 0 0
+tr_ankara_68 0 33 0 0
+tr_istanbul_34 0 29 0 0
+us_mountain%20view_ca 0 24 0 0
+ua_mariupol_05 0 4 0 0
+us_sterling_va 0 1 0 0
+tr_gaziantep_83 0 11 0 0
+cn_shanghai_23 0 1 0 0
+cn_hangzhou_02 0 1 0 0
+cn_beijing_22 0 2 0 0
+us_boston_ma 0 10 0 0
+us_san%20bruno_ca 0 1 0 0
+de_langenhagen_06 0 10 0 0
+us_atlanta_ga 0 1 0 0
+us_washington_dc 0 9 0 0
+us_dallas_tx 0 1 0 0
+us_lakewood_oh 0 3 0 0
+tr_bursa_16 0 10 0 0
+tr_antalya_07 0 2 0 0
+us_houston_tx 0 1 0 0
+us_denver_co 0 9 0 0
+us_herndon_va 0 3 0 0
+tw_taipei_03 0 2 0 0
+us_seattle_wa 0 15 0 0
+cn_nanning_16 0 2 0 0
+us_kansas%20city_mo 0 1 0 0
+us_las%20vegas_nv 0 2 0 0
+us_kirkland_wa 0 1 0 0
+us_woodbridge_nj 0 1 0 0
+END_PLUGIN_geoip_city_maxmind
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 101
+78.165.204.171 623 677 7596326 20141027155134
+78.167.19.225 161 201 7995647 20141028044701
+37.220.26.19 72 116 7616192 20141019145821
+193.140.187.27 63 70 6247 20141020050650
+78.165.249.31 47 66 493690 20141020120140
+37.220.20.173 42 57 881736 20141020075923
+88.150.133.60 29 49 443427 20141020011415
+77.245.66.146 25 44 290586 20141020064611
+78.167.15.37 17 17 1227 20141020060849
+88.150.202.138 15 16 5448 20141020062546
+207.198.114.233 1 1 2576 20141023124702
+31.13.102.116 1 1 12189 20141023191501
+221.7.249.215 1 1 12711 20141026081101
+31.3.244.60 13 13 722 20141028033517
+37.200.65.208 1 1 2576 20141014180627
+69.58.178.56 1 1 2576 20141014171035
+192.237.216.89 1 1 2576 20141020050834
+78.165.60.51 5 18 1884114 20141023143949
+114.42.124.82 1 1 19253 20141028045603
+166.78.181.113 2 2 5152 20141020040618
+88.150.174.141 12 20 141206 20141020071624
+74.52.245.146 1 1 2576 20141010124450
+61.189.223.250 1 1 19253 20141028045555
+70.39.246.37 3 3 24402 20141026080347
+38.99.82.194 2 8 172554 20141018020155
+78.165.225.233 2 2 5152 20141016151035
+123.93.150.152 1 1 19088 20141028041549
+192.99.40.137 11 23 102954 20141030032102
+38.100.21.120 2 2 5152 20141008163032
+192.114.71.13 2 3 1605523 20141027022625
+50.193.202.82 2 2 5152 20141014120547
+72.46.152.69 2 2 5152 20141031083533
+50.16.19.57 1 1 2576 20141011212234
+108.171.255.44 6 6 88306 20141029121448
+78.167.30.241 12 40 1740109 20141011150726
+88.150.174.139 5 5 272 20141020075432
+199.30.228.157 3 11 1789595 20141028202955
+176.219.136.217 3 10 1742685 20141008163633
+37.157.247.43 6 6 935 20141020010246
+78.163.13.151 1 6 1869582 20141023191502
+5.47.242.139 3 13 1743528 20141008145432
+37.59.40.201 1 1 2576 20141020092925
+80.84.56.36 3 10 1742685 20141013170159
+213.43.136.37 3 10 1742685 20141026182403
+220.136.126.176 1 1 19253 20141028045600
+38.99.82.208 4 16 346603 20141018043324
+193.43.252.252 4 4 10304 20141011074629
+193.140.184.4 5 21 5477415 20141020100052
+54.198.0.246 1 1 2576 20141026172147
+88.150.133.61 10 10 618 20141028031617
+37.157.247.42 1 1 47 20141019165911
+78.167.8.238 13 42 6970952 20141008144503
+38.100.21.69 1 7 22209 20141012164629
+46.165.208.195 3 10 0 20141011082329
+216.38.216.197 3 9 74883 20141017083627
+208.43.251.182 1 1 2576 20141010113346
+206.183.1.74 1 3 24961 20141015194025
+46.229.167.149 2 2 5152 20141030114417
+62.210.148.172 1 1 2576 20141023104203
+66.102.7.57 1 1 2576 20141029192325
+69.64.155.184 1 1 2576 20141010131826
+66.249.91.113 1 1 2576 20141009061055
+183.252.52.41 1 1 12711 20141026221949
+207.244.89.114 3 10 1742685 20141012124512
+66.249.81.202 1 1 2576 20141029172804
+37.157.247.45 1 1 47 20141020005033
+151.250.232.89 3 11 202 20141009041322
+23.22.131.24 2 2 31964 20141028045029
+88.150.174.138 1 1 2576 20141012184058
+199.30.228.130 1 1 2576 20141009104536
+78.167.58.195 4 11 1745261 20141019134058
+64.233.172.101 1 1 2576 20141009083305
+78.167.49.103 8 22 1743222 20141029152116
+49.119.16.220 1 1 12711 20141026081558
+78.47.47.188 1 1 2576 20141015190143
+78.163.3.25 3 10 2576 20141010134139
+37.220.20.170 6 6 739 20141020010046
+38.99.82.228 2 8 172554 20141018040701
+82.80.249.152 1 6 43348 20141027005424
+121.31.6.74 1 1 19088 20141028041435
+38.99.82.191 6 24 517662 20141017005432
+78.167.18.25 6 20 5152 20141013134116
+31.13.102.117 1 1 12189 20141023191511
+66.249.93.31 4 4 10304 20141026032346
+66.249.81.31 15 15 38640 20141028035600
+92.203.101.243 3 10 1742685 20141029125043
+107.155.190.83 2 8 126048 20141015061233
+85.110.144.136 3 11 1742887 20141008144435
+182.118.53.201 1 7 60596 20141017131055
+88.150.202.141 14 14 769 20141019165708
+193.140.187.31 3 10 2576 20141009060353
+88.150.199.66 3 9 1742483 20141023141702
+80.84.56.58 10 10 470 20141019151712
+78.178.112.142 3 11 1742887 20141011170529
+109.73.74.107 4 4 188 20141020072030
+208.90.57.196 1 1 2576 20141012232248
+94.54.153.42 3 10 1742685 20141029014026
+65.49.54.70 1 1 2576 20141009040715
+31.3.236.242 7 26 1652566 20141020005745
+69.30.241.18 1 1 2576 20141019000921
+61.164.33.14 1 1 19253 20141028045435
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 24
+20141008 33 108 13945313 6
+20141009 11 26 15658 7
+20141010 14 34 1760515 8
+20141011 15 37 1758343 6
+20141012 9 29 1772622 5
+20141013 7 21 1747837 3
+20141014 8 14 61781 4
+20141015 6 14 156161 5
+20141016 7 19 352836 3
+20141017 7 25 310609 4
+20141018 9 33 694287 5
+20141019 164 269 12341667 11
+20141020 223 280 4702405 22
+20141021 5 11 54053 4
+20141022 3 3 26954 2
+20141023 14 38 5528285 8
+20141024 2 2 5152 2
+20141025 9 29 3750311 4
+20141026 386 415 5262719 11
+20141027 317 335 2078012 9
+20141028 125 173 9918780 12
+20141029 18 46 5272250 6
+20141030 2 2 2576 2
+20141031 2 2 5152 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 6
+5mn-15mn 6
+0s-30s 111
+15mn-30mn 11
+30s-2mn 4
+2mn-5mn 8
+30mn-1h 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 26
+/BIM485/wp-admin/admin-ajax.php 1023 72484 27 31
+/ 120 275642 94 61
+/BIM485/ 85 1391098 24 23
+/css/images/overlay.svg 34 16485 1 5
+/fonts/fontawesome-webfont.woff 33 1309040 0 21
+/BIM485/wp-admin/load-scripts.php 32 2535225 0 0
+/BIM485/wp-admin/post.php 13 1556936 1 0
+/BIM485/wp-admin/load-styles.php 10 1064054 0 0
+/fonts/fontawesome-webfont.ttf 8 897280 0 7
+/BIM485/wp-includes/js/tinymce/wp-tinymce.php 6 807996 0 0
+/BIM485/wp-admin/images/wordpress-logo.svg 3 3042 0 1
+/BIM485/wp-admin/widgets.php 2 127198 0 0
+/BIM485/wp-admin/ 3 114149 1 0
+/menat/ 1 409 0 0
+/BIM485/wp-admin/index.php 1 42201 0 0
+/menat/blog.html 1 128 0 1
+/BIM485/wp-admin/options-general.php 1 51126 0 0
+/BIM485/wp-admin/install.php 3 12701 1 0
+/BIM485/wp-admin/customize.php 2 251135 0 0
+/BIM485/wp-admin/themes.php 2 72852 0 0
+/BIM485/wp-admin/edit.php 4 151472 0 0
+/BIM485/wp-admin/plugins.php 1 29919 0 0
+/BIM485/wp-admin/comment.php 1 29507 0 0
+/BIM485/wp-admin/async-upload.php 4 5932 0 0
+/BIM485/wp-login.php 1 2709 1 0
+/BIM485/wp-admin/post-new.php 2 226692 0 0
+END_SIDER
